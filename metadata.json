@@ -1,0 +1,6 @@
+{
+  "name": "Multiverse RPG",
+  "description": "Marvel Multiverse TTRPG companion app with d616 dice roller, character sheets, rulebook reference, generators, and session log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
